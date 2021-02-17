@@ -6,6 +6,6 @@ class Const(object):
     SEND_GRID_API_KEY = 'xxxSG.API_KEYxxx'
     RECIEVING_EMAIL = 'xxxEMail_YOU_WANT_TO_RECIEVExxx'
 
-    '''Chaurbate Info'''
+    '''Chaturbate Info'''
     CB_USERNAME = 'xxxYOUR_USERNAMExxx'
     CB_TOKEN = 'xxxYOUR_TOKENxxx'
